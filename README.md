@@ -13,6 +13,11 @@ Linkedin: [https://www.linkedin.com/in/jfairgrieve/](https://www.linkedin.com/in
 
 ## About the Project
 
+Please note, the data for this project was collated on 25/09/2022. There are three sections in total for this project:
+
+ - Using the OpenWeatherMap API: In this section, a list of city names are curated using a randomly generated set of 1,500 co-ordinates. These cities are subsequently used for the API calls, generating the weather information for analysis throughout the rest of the project. Overall, the API retreived the weather information for 560 cities.
+ - Analysing the Extracted Data: A quick analysis was taken using the weather features collated (Max Temperature, Humidity, Wind Speed and Cloudiness). Any outliers are identified and highlighted, but not removed in this case. The features were then compared against the Latitude of each city co-ordinate to identify any trend in the weather as you approach the equator.
+ - Using Google Maps API: Finally, the Google Maps API was used to plot the humidity changes across the globe. After defining the ideal weather conditions for a holiday, map markers were then generated to show the nearest hotel in relation to the city co-ordinates.
 
 ## Resources
  - [OpenWeatherMap API](https://openweathermap.org/api)
