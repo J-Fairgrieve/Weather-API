@@ -3,6 +3,7 @@
 James Fairgrieve
 
 Linkedin: [https://www.linkedin.com/in/jfairgrieve/](https://www.linkedin.com/in/jfairgrieve/)
+
 Portfolio: [https://j-fairgrieve.github.io/](https://j-fairgrieve.github.io/)
 
 ## Contents
